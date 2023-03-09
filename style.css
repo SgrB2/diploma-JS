@@ -80,7 +80,6 @@ header {
     color: #000;
 }
 
-/* корзина */
 .cart-shopping_container {
     display: flex;
     flex-direction: column;
@@ -230,10 +229,6 @@ header {
     font-weight: 700;
     margin: 0 0 10px 20px;
 }
-
-/* корзина */
-
-
 
 .radius_container {
     height: 25px;
@@ -416,17 +411,4 @@ footer {
     font-size: 14px;
     font-weight: 200;
     line-height: 1.42857;
-}
-
-
-/* модалка */
-
-.modal_window {
-    border: 3px solid #0e0c0e;
-    width: 200px;
-    height: 200px;
-    position: absolute;
-    z-index: 3;
-    top: 400px;
-    right: 500px;
 }
